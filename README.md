@@ -89,6 +89,6 @@ This project is licensed under the MIT License.
 - **LinkedIn:** [Sahil Saraswat](https://www.linkedin.com/in/sahil-saraswat-67a365251/)
 
 ---
-Made with ❤️ by [Sahil Saraswat] 🚀
+Made with ❤️ by Sahil Saraswat 🚀
 
 
